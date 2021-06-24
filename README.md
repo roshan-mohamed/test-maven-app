@@ -1,6 +1,6 @@
 Java "hello world" program
 -----------------------------
-
+..
 This repository contains very trivial program on Java. To build and run this program, follow the instruction:
 
 ```console
